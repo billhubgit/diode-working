@@ -1,0 +1,7 @@
+#Thu Jan 12 10:07:57 PST 2017
+base.0=C\:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7035d1c2d3c3e2e737f2e82c1757689202f4485f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_43ea3b672c2c316b4a0e08d79ecf4ec970fd1f49\\classes.dex
+base.1=C\:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_43ea3b672c2c316b4a0e08d79ecf4ec970fd1f49
+file.0=C\:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7035d1c2d3c3e2e737f2e82c1757689202f4485f\\classes.dex

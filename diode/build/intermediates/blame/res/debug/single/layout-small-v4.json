@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\threads_list_item.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout-small\\threads_list_item.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\saved_comment_click_dialog.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout-small\\saved_comment_click_dialog.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\thread_click_dialog.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout-small\\thread_click_dialog.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\comments_list_item.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout-small\\comments_list_item.xml"
+    }
+]

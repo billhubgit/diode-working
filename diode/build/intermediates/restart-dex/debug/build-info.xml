@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="388232763225080"
+    token="5326029719381121312"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1797" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1600" />
+    <task
+        name="verifier"
+        duration="334" />
+
+    <artifact
+        location="C:\Development\Android\github\diode-working\diode\build\outputs\apk\diode-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="388232763225080"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Development\Android\github\diode-working\diode\build\outputs\apk\diode-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

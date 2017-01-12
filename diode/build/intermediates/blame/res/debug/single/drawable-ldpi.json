@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_friendslist.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-ldpi\\ic_menu_friendslist.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\vote_up_gray.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-ldpi\\vote_up_gray.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_close_clear_cancel.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-ldpi\\ic_menu_close_clear_cancel.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_compose.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-ldpi\\ic_menu_compose.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_back.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-ldpi\\ic_menu_back.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_start_conversation.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-ldpi\\ic_menu_start_conversation.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\vote_down_blue.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-ldpi\\vote_down_blue.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\vote_down_gray.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-ldpi\\vote_down_gray.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_refresh.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-ldpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\vote_up_red.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-ldpi\\vote_up_red.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_login.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-ldpi\\ic_menu_login.png"
+    }
+]

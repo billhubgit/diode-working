@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_login.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\ic_menu_login.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_alien.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\ic_menu_alien.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_compose.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\ic_menu_compose.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_selector_background_focus.9.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\list_selector_background_focus.9.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_close_clear_cancel.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\ic_menu_close_clear_cancel.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_selector_background_disabled.9.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\list_selector_background_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_browser.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\ic_menu_browser.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_refresh.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_selector_background_pressed.9.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\list_selector_background_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_back.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\ic_menu_back.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_selector_background_longpress.9.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\list_selector_background_longpress.9.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_friendslist.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\ic_menu_friendslist.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_start_conversation.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\ic_menu_start_conversation.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\go_arrow.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable-hdpi\\go_arrow.png"
+    }
+]

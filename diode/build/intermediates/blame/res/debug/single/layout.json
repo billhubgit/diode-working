@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\search_view.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\search_view.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\zero_size_layout.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\zero_size_layout.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\login_dialog.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\login_dialog.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\saved_comments_item.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\saved_comments_item.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\saved_comments.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\saved_comments.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\submit_link_main.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\submit_link_main.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\threads_list_item.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\threads_list_item.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\markhelp_view.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\markhelp_view.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\inbox_list_item.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\inbox_list_item.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\thread_click_dialog.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\thread_click_dialog.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\more_comments_view.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\more_comments_view.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\subreddit_list_entry.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\subreddit_list_entry.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\comments_list_item.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\comments_list_item.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\config_filter_list.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\config_filter_list.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dark.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\loading_dark.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\comments_list_content.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\comments_list_content.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\next_previous_list_item.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\next_previous_list_item.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\compose_dialog.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\compose_dialog.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\loading_light.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\loading_light.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\edit_filter_layout.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\edit_filter_layout.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\error_toast.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\error_toast.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\threads_list_content.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\threads_list_content.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\inbox_list_content.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\inbox_list_content.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\browser.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\browser.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\compose_reply_dialog.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\compose_reply_dialog.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\profile_list_content.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\profile_list_content.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\filter_list_activity.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\filter_list_activity.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\big_envelope_notification.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\big_envelope_notification.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\comments_list_item_hidden.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\comments_list_item_hidden.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\viewing_single_comment_list_item.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\viewing_single_comment_list_item.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\pick_subreddit_view.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\pick_subreddit_view.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\comment_click_dialog.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\comment_click_dialog.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_find.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout\\dialog_find.xml"
+    }
+]

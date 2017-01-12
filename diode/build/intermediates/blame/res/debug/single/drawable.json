@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\vote_up_big_statelist.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\vote_up_big_statelist.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\list_selector_background_transition.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\reddit_alien.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\reddit_alien.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\mailgray.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\mailgray.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\selftext_border.9.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\selftext_border.9.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\mail_big.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\mail_big.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_blue.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\list_selector_blue.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\divider_vertical_dark.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\divider_vertical_dark.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\thumbnail_background_light.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\thumbnail_background_light.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_blue_pressed.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\list_selector_blue_pressed.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\thumbnail_background_dark.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\thumbnail_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\vote_down_big_statelist.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\vote_down_big_statelist.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\mail.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\mail.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_blue_longpress.9.png",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\list_selector_blue_longpress.9.png"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_blue_transition.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\drawable\\list_selector_blue_transition.xml"
+    }
+]

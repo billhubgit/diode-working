@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout-land\\login_dialog.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout-land\\login_dialog.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout-land\\compose_reply_dialog.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout-land\\compose_reply_dialog.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout-land\\comment_click_dialog.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout-land\\comment_click_dialog.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\layout-land\\thread_click_dialog.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\layout-land\\thread_click_dialog.xml"
+    }
+]

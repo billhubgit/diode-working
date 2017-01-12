@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright 2009 Andrew Shu, 2012 Michael Shick
+ *
+ * This file is part of "diode".
+ *
+ * "diode" is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * "diode" is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with "diode".  If not, see <http://www.gnu.org/licenses/>.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="in.shick.diode"
+    android:installLocation="auto"
+    android:versionCode="18"
+    android:versionName="1.2.1" >
+
+    <uses-sdk
+        android:minSdkVersion="4"
+        android:targetSdkVersion="11" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
+    <uses-permission android:name="com.android.browser.permission.WRITE_HISTORY_BOOKMARKS" />
+
+    <supports-screens />
+
+    <application
+        android:name="in.shick.diode.RedditIsFunApplication"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <activity
+            android:name="in.shick.diode.threads.ThreadsListActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="www.reddit.com"
+                    android:pathPattern="/r/.*/"
+                    android:scheme="http" />
+                <data
+                    android:host="np.reddit.com"
+                    android:pathPattern="/r/.*/"
+                    android:scheme="http" />
+                <data
+                    android:host="redd.it"
+                    android:pathPattern="/"
+                    android:scheme="http" />
+            </intent-filter>
+        </activity>
+        <activity android:name="in.shick.diode.comments.CommentsListActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="www.reddit.com"
+                    android:pathPattern="/r/.*/comments/.*"
+                    android:scheme="http" />
+                <data
+                    android:host="np.reddit.com"
+                    android:pathPattern="/r/.*/comments/.*"
+                    android:scheme="http" />
+                <data
+                    android:host="www.reddit.com"
+                    android:pathPrefix="/comments/"
+                    android:scheme="http" />
+                <data
+                    android:host="np.reddit.com"
+                    android:pathPrefix="/comments/"
+                    android:scheme="http" />
+                <data
+                    android:host="www.reddit.com"
+                    android:pathPrefix="/tb/"
+                    android:scheme="http" />
+                <data
+                    android:host="np.reddit.com"
+                    android:pathPrefix="/tb/"
+                    android:scheme="http" />
+            </intent-filter>
+            <!-- Separate filter because when added to above filter, the host is ignored -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="redd.it"
+                    android:pathPattern="/..*"
+                    android:scheme="http" />
+            </intent-filter>
+        </activity>
+        <activity android:name="in.shick.diode.reddits.PickSubredditActivity" />
+        <activity android:name="in.shick.diode.submit.SubmitLinkActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+        </activity>
+        <activity android:name="in.shick.diode.mail.InboxActivity" />
+        <activity android:name="in.shick.diode.mail.InboxListActivity" />
+        <activity android:name="in.shick.diode.user.ProfileActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="www.reddit.com"
+                    android:pathPrefix="/user/"
+                    android:scheme="http" />
+                <data
+                    android:host="np.reddit.com"
+                    android:pathPrefix="/user/"
+                    android:scheme="http" />
+            </intent-filter>
+        </activity>
+        <activity android:name="in.shick.diode.settings.RedditPreferencesPage" />
+        <activity
+            android:name="in.shick.diode.browser.BrowserActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:hardwareAccelerated="true" >
+        </activity>
+
+        <service
+            android:name="in.shick.diode.mail.EnvelopeService"
+            android:label="@string/pref_mail_notification_service" />
+
+        <activity android:name="in.shick.diode.search.RedditSearchActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name="in.shick.diode.mail.BootAlarmSetter" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="com.google.android.backup.api_key"
+            android:value="AEdPqrEAAAAIrd4RnBA8kUYJJVB22mBqXZPhyj0-SFigY4SqxA" />
+
+        <activity android:name="in.shick.diode.filters.FilterListActivity" />
+        <activity android:name="in.shick.diode.filters.FilterEditActivity" />
+        <activity
+            android:name="in.shick.diode.comments.SavedCommentsActivity"
+            android:label="Saved Comments" />
+    </application>
+
+</manifest>

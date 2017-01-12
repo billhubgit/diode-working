@@ -1,0 +1,63 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* COPYING
+* README.markdown
+* ant.properties
+* libs-dependencies\
+* libs-dependencies\joda-time-1.6.2.jar
+* libs-dependencies\jsr311-api-0.8.jar
+* libs-dependencies\stax2-api-3.0.0.jar
+* media\
+* media\drawable-vector\
+* media\drawable-vector\icon.svg
+* media\go_arrow_48x48.xcf
+* media\go_arrow_72x72.xcf
+* media\launcher_icon.svg
+* media\mail.svg
+* media\screencaps\
+* media\screencaps\device-2012-03-12-020250.png
+* media\screencaps\device-2012-03-12-020415.png
+* tests\
+* tests\AndroidManifest.xml
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* libs\automaton.jar => app\libs\automaton.jar
+* libs\jackson-core-asl-1.8.5.jar => app\libs\jackson-core-asl-1.8.5.jar
+* libs\jackson-mapper-asl-1.8.5.jar => app\libs\jackson-mapper-asl-1.8.5.jar
+* proguard.cfg => app\proguard.cfg
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* vote_down_blue_big.PNG => vote_down_blue_big.png
+* vote_down_blue_focus_big.PNG => vote_down_blue_focus_big.png
+* vote_down_gray_big.PNG => vote_down_gray_big.png
+* vote_down_gray_focus_big.PNG => vote_down_gray_focus_big.png
+* vote_up_red_big.PNG => vote_up_red_big.png
+* vote_up_red_focus_big.PNG => vote_up_red_focus_big.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

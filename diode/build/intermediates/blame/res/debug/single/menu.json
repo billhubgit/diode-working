@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\menu\\browser.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\menu\\browser.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\menu\\subreddit.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\menu\\subreddit.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\menu\\submit_link.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\menu\\submit_link.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\menu\\filter_options_menu.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\menu\\filter_options_menu.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\menu\\comments.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\menu\\comments.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\menu\\inbox.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\menu\\inbox.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\menu\\saved_menu.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\menu\\saved_menu.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\menu\\config_filter_context_menu.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\menu\\config_filter_context_menu.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\menu\\subreddit_list.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\menu\\subreddit_list.xml"
+    },
+    {
+        "merged": "C:\\Development\\Android\\github\\diode-working\\diode\\build\\intermediates\\res\\merged\\debug\\menu\\profile.xml",
+        "source": "C:\\Development\\Android\\github\\diode-working\\diode\\src\\main\\res\\menu\\profile.xml"
+    }
+]

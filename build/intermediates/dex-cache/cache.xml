@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Development\Android\github\diode-working\diode\libs\jackson-mapper-asl-1.8.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="56439095aa051521c5abb330235820c66886b5e5">
+        <dex dex="C:\Development\Android\github\diode-working\diode\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-mapper-asl-1.8.5_85c685139c896c070135f872203c30317a77c198\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Development\Android\github\diode-working\diode\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="351fb206241005240a38d4df9c307f7f248200a9">
+        <dex dex="C:\Development\Android\github\diode-working\diode\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7035d1c2d3c3e2e737f2e82c1757689202f4485f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Development\Android\github\diode-working\diode\libs\automaton.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9ae14b38db55c05e04ca06c0d849ebb82c888f07">
+        <dex dex="C:\Development\Android\github\diode-working\diode\build\intermediates\transforms\dex\debug\folders\1000\2\automaton_2681a71848dc901d970e2696a69a79dcedee4a1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Development\Android\github\diode-working\diode\libs\jackson-core-asl-1.8.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="713a5564acb9a5467521bbb53221ab8e1fe65039">
+        <dex dex="C:\Development\Android\github\diode-working\diode\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-core-asl-1.8.5_24464bc5bc9f6eb8daac71413cd746715d402498\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Development\Android\github\diode-working\diode\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d8d02c5961011960e80e96955062922daf39115d">
+        <dex dex="C:\Development\Android\github\diode-working\diode\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_43ea3b672c2c316b4a0e08d79ecf4ec970fd1f49\classes.dex" />
+    </item>
+
+</items>
